@@ -1,0 +1,21 @@
+{
+  "name": "bower-example",
+  "homepage": "https://github.com/colinbut/bower-example",
+  "authors": [
+    "Colin But <colinbut@users.noreply.github.com>"
+  ],
+  "description": "bower example",
+  "main": "index.html",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
