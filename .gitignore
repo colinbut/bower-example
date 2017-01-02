@@ -11,6 +11,7 @@
 *.iml
 
 node_modules
+bower_components
 
 .settings/*
 .idea/*
